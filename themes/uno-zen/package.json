@@ -25,7 +25,7 @@
   "devDependencies": {
     "browser-sync": "latest",
     "coffee-script": "latest",
-    "gulp": "latest",
+    "gulp": "4.0.0",
     "gulp-add-src": "latest",
     "gulp-autoprefixer": "latest",
     "gulp-changed": "latest",
@@ -37,7 +37,7 @@
     "gulp-shorthand": "latest",
     "gulp-strip-css-comments": "latest",
     "gulp-uglify": "latest",
-    "gulp-util": "latest",
+    "gulp-util": "3.0.8",
     "underscore.string": "latest"
   },
   "engines": {
