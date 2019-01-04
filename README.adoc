@@ -1,4 +1,6 @@
 = HubPress
+
+image:https://badges.greenkeeper.io/pebsconsulting/hubpress.io.svg[link="https://greenkeeper.io/"]
 :toc: macro
 :toclevels: 4
 :sectnums:
