@@ -1,0 +1,14 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "themes/casper/package.json",
+        "themes/ichi/package.json",
+        "themes/roon/package.json",
+        "themes/saga/package.json",
+        "themes/the-shell/package.json",
+        "themes/uno-zen/package.json"
+      ]
+    }
+  }
+}
